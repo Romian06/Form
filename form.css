@@ -1,0 +1,50 @@
+
+
+.back {
+    background-color: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    width: 40%;
+    height: 45%;
+    max-width: 330px;
+    margin: auto;
+    padding-top: 20px; /* به جای 0% کمی فاصله پیکسلی از بالا بده تا متن نچسبه */
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;}
+                
+
+.labell {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}    
+            
+input {
+    margin: 1%;
+    font-size: 16px;
+    padding: 1px; /* ایجاد فضای خالی داخل کادر برای زیبایی */
+    border-radius: 5px; /* نرم کردن گوشه‌های کادر */
+    border: 1px solid #ccc;
+    width: 90%; /* پهنای کادرها درون فرم */
+                }
+#button1{   
+    background-color: #1e3a8a; /* یک رنگ سرمه‌ای شیک */
+    color: white; /* رنگ متن دکمه */
+    width: 25%;
+    height: 10%;
+    text-align: center;
+    border-radius: 9999px;
+    font-size: large;
+    margin: 1%;
+    border-radius: 10px; /* گوشه‌های کمی نرم به جای دایره کامل */
+                }
+.diva {
+    width: 100%;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+        
